@@ -9,7 +9,7 @@
 <em>
 Software Enginner at <a href="http://www.paymedia.lk">Paymedia</a></br>
 Full Stack Developer at <a href="https://www.directpay.lk">Directpay</a>   </br>
-Developer Consultant at <a href="https://www.squarehub.tech">SquareHub Incubator Acceleration</a><br>
+<!-- Developer Consultant at <a href="https://www.squarehub.tech">SquareHub Incubator Acceleration</a><br> -->
 </em>
 </p>
 
