@@ -145,8 +145,12 @@ Full Stack Developer at <a href="https://www.directpay.lk">Directpay</a>   </br>
 
 </p>
 
-# Repos
+# Featured
 
 <a href="https://github.com/damithdev/flutter-leap-of-faith">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=damithdev&repo=flutter-leap-of-faith" />
+</a>
+
+<a href="https://github.com/damithdev/flutter_responsive_table">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=damithdev&repo=flutter_responsive_table" />
 </a>
