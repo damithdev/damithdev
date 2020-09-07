@@ -15,7 +15,11 @@ Developer Consultant at <a href="https://www.squarehub.tech">SquareHub Incubator
 
 
 
-[![Twitter: Damith](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/itsmedamith)
+[![Twitter: Damith](https://img.shields.io/twitter/follow/itsmedamith?label=Follow%20on%20twitter&style=social)](https://twitter.com/itsmedamith)
+[![GitHub followers](https://img.shields.io/github/followers/damithdev?label=Follow%20on%20github&style=social)](https://twitter.com/itsmedamith)
+
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/damithdev" aria-label="Follow @damithdev on GitHub">Follow @damithdev</a>
 
 # 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
 
