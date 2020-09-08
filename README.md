@@ -26,6 +26,8 @@ Full Stack Developer at <a href="https://www.directpay.lk">Directpay</a>   </br>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=damithdev&show_icons=true&hide_border=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damithdev)
+
 
 <p align="center">
 <svg width="54px" height="54px" viewBox="0 0 128 128">
