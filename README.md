@@ -18,9 +18,9 @@ Full Stack Developer at <a href="https://www.directpay.lk">Directpay</a>   </br>
 [![Twitter: Damith](https://img.shields.io/twitter/follow/itsmedamith?label=Follow%20on%20twitter&style=social)](https://twitter.com/itsmedamith)
 [![GitHub followers](https://img.shields.io/github/followers/damithdev?label=Follow%20on%20github&style=social)](https://twitter.com/itsmedamith)
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/blogs/devto.svg"> 
-</p>
+<a href="https://dev.to/damith">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Damith's DEV Profile" height="30" width="30">
+</a>
 
 # 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
 
