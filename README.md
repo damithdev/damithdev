@@ -4,7 +4,7 @@
     
 </p>
 
-<img align='right' src="https://media.giphy.com/media/fAcQ7d1Hnx2XlY6SMe/giphy.gif" width="230">
+<!-- <img align='right' src="https://media.giphy.com/media/fAcQ7d1Hnx2XlY6SMe/giphy.gif" width="230"> -->
 <p>
 <em>
 Software Enginner at <a href="http://www.paymedia.lk">Paymedia</a></br>
@@ -175,9 +175,9 @@ This does not describe my current skill set. It's only the github's metric on th
 [<code>
 <img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
 </code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<code>
+<!-- [<code>
 <img alt="react" width="26px" src="https://img.icons8.com/color/240/000000/react-native.png" />
-</code>](https://reactjs.org/)
+</code>](https://reactjs.org/) -->
 [<code>
 <img alt="java" width="26px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">
 </code>](https://docs.oracle.com/en/java/)
