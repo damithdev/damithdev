@@ -7,7 +7,7 @@
 <!-- <img align='right' src="https://media.giphy.com/media/fAcQ7d1Hnx2XlY6SMe/giphy.gif" width="230"> -->
 <p>
 <em>
-Senior Software Engineer at <a href="https://corzent.com/">Corzent</a></br>
+Software Engineer / Tech Enthusiast</br>
 </em>
 </p>
 
