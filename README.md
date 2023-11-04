@@ -1,3 +1,4 @@
+
 <h2> Hi, I'm Damith <img src="https://media.giphy.com/media/Utam5wHayAtcB2MkkC/giphy.gif" width="25"></h2>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=damithdev" alt="damithdev" />
@@ -12,8 +13,6 @@ Software Engineer / Tech Enthusiast</br>
 </p>
 
 
-
-[![Twitter: Damith](https://img.shields.io/twitter/follow/itsmedamith?label=Follow%20on%20twitter&style=social)](https://twitter.com/itsmedamith)
 [![GitHub followers](https://img.shields.io/github/followers/damithdev?label=Follow%20on%20github&style=social)](https://twitter.com/itsmedamith)
 
 <p>
@@ -30,9 +29,6 @@ Software Engineer / Tech Enthusiast</br>
 </p>
 
 
-# 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=damithdev&show_icons=true&hide_border=true)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damithdev)
